@@ -5,6 +5,8 @@ public class A {
 		
 		System.out.println("Hi Sarika!!");
 		System.out.println("How are you doing");
+		
+		System.out.println("We are doing good");
 
 	}
 
