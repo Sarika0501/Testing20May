@@ -7,6 +7,8 @@ public class A {
 		System.out.println("How are you doing");
 		
 		System.out.println("We are doing good");
+		
+		System.out.println("Today we had party of Anniversary");
 
 	}
 
