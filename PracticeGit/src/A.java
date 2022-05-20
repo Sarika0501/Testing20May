@@ -9,6 +9,7 @@ public class A {
 		System.out.println("We are doing good");
 		
 		System.out.println("Today we had party of Anniversary");
+		System.out.println("Ok great");
 
 	}
 
